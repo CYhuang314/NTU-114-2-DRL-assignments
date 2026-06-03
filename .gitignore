@@ -1,0 +1,4 @@
+# Machine Learning data and models
+*.pth
+*.pt
+*.npz

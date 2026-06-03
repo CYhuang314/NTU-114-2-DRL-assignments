@@ -1,0 +1,5 @@
+numpy==2.2.6
+levdoom==1.0.3
+gymnasium>=0.29.0
+torch>=2.0.0
+opencv-python-headless>=4.8.0

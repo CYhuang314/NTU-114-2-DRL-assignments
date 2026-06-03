@@ -1,0 +1,7 @@
+gym==0.26.2
+numpy
+tqdm
+requests
+argparse
+torch
+matplotlib
